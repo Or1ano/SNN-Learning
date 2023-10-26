@@ -1,2 +1,2 @@
 # SNN-Learning
-some learning data
+This is a collection of learning resources about SNNs
